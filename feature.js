@@ -1,4 +1,7 @@
-console.log("akash");
+console.log("aman");
+
 
 console .log("vinay");
-console.log("aman")
+console.log("akash");
+ a=10;
+
